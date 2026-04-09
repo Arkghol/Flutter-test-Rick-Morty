@@ -1,0 +1,24 @@
+{
+  "@@locale": "en",
+  "appTitle": "Rick and Morty",
+  "charactersTab": "Characters",
+  "favoritesTab": "Favorites",
+  "searchHint": "Search characters...",
+  "noCharactersFound": "No characters found",
+  "noFavoritesYet": "No favorites yet",
+  "noFavoritesHint": "Tap the star icon to add characters",
+  "toggleThemeTooltip": "Toggle theme",
+  "retryButton": "Retry",
+  "episodesCount": "{count} episodes",
+  "@episodesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "networkError": "No internet connection",
+  "cacheError": "No internet and no cached data",
+  "serverError": "Server error occurred",
+  "characterNotFound": "Character not found"
+}

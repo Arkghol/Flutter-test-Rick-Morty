@@ -1,0 +1,46 @@
+# Flutter/Dart
+*.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# FVM
+.fvm/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+/android/.gradle
+/android/local.properties
+/android/captures/
+/android/gradlew
+/android/gradlew.bat
+
+# iOS
+/ios/Flutter/flutter_export_environment.sh
+/ios/Pods/
+/ios/.symlinks/
+
+# Windows
+*.exe
+*.dll
+*.pdb
+
+# Generated
+*.g.dart
+*.freezed.dart
+lib/l10n/app_localizations.dart
+lib/l10n/app_localizations_*.dart

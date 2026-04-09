@@ -1,0 +1,24 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Рик и Морти",
+  "charactersTab": "Персонажи",
+  "favoritesTab": "Избранное",
+  "searchHint": "Поиск персонажей...",
+  "noCharactersFound": "Персонажи не найдены",
+  "noFavoritesYet": "Избранных пока нет",
+  "noFavoritesHint": "Нажмите на звёздочку, чтобы добавить персонажа",
+  "toggleThemeTooltip": "Сменить тему",
+  "retryButton": "Повторить",
+  "episodesCount": "{count} эпизодов",
+  "@episodesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "networkError": "Нет подключения к интернету",
+  "cacheError": "Нет интернета и нет кэшированных данных",
+  "serverError": "Ошибка сервера",
+  "characterNotFound": "Персонаж не найден"
+}
