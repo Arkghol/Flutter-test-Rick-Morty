@@ -38,6 +38,8 @@ pubspec.lock
 *.exe
 *.dll
 *.pdb
+/dist/
+*.spec
 
 # Generated
 *.g.dart

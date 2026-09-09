@@ -103,3 +103,18 @@ python calculator.py
 ```bash
 python -m unittest -v test_calculator.py
 ```
+
+### Portable-файл для Windows
+
+Готовая portable-версия не требует установленного Python и запускается одним
+файлом `EngineeringCalculator.exe`. [Скачать готовый файл](https://github.com/Arkghol/Flutter-test-Rick-Morty/raw/agents/python-calculator-program-upload/dist/EngineeringCalculator.exe),
+положить его в любую папку и запустить двойным щелчком.
+
+Для самостоятельной сборки на Windows установите PyInstaller и выполните:
+
+```powershell
+python -m pip install pyinstaller
+.\build_portable.ps1
+```
+
+Результат появится в `dist\EngineeringCalculator.exe`.
